@@ -16,5 +16,4 @@ This project fetches products from the Vendure API, an open-source headless e-co
 List the key features of your project. For example:
 - Fetch products from a GraphQL API.
 - Display product details on a web page.
-- Filter and search products based on criteria.
 
